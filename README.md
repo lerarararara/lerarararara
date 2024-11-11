@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @lerarararara
-- 👀 I’m interested in 5 по информатике
-- 🌱 I’m currently learning информатику
-- 💞️ I’m looking to collaborate on только сама с собой
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 я @lerarararara
+- 👀 я заинтересована в 5 по информатике
+- 🌱 я изучаю информатику
+- ⚡ у меня есть 2 кота: Лаки и Толик
 
 <!---
 lerarararara/lerarararara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
